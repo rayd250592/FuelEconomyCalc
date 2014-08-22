@@ -11,7 +11,7 @@
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                 <GradientStop Color="Black"/>
-                <GradientStop Color="#FF00004F" Offset="1"/>
+                <GradientStop Color="#FF244F00" Offset="1"/>
             </LinearGradientBrush>
         </Grid.Background>
         <TextBlock HorizontalAlignment="Left" Margin="134,332,0,0" TextWrapping="Wrap" Text="Miles Travelled :" VerticalAlignment="Top" FontSize="48" Width="374"/>
@@ -24,6 +24,7 @@
         <TextBlock HorizontalAlignment="Left" Margin="352,36,0,0" TextWrapping="Wrap" Text="MPG Calculator" VerticalAlignment="Top" FontSize="48" Width="499"/>
         <TextBlock HorizontalAlignment="Left" Margin="742,332,0,0" TextWrapping="Wrap" Text="Total KM/L:" VerticalAlignment="Top" FontSize="48" Width="275"/>
         <TextBlock x:Name="kmresult" HorizontalAlignment="Left" Margin="1074,332,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="48" Width="154"/>
+        <Button Content="About" HorizontalAlignment="Left" Margin="1093,636,0,84" VerticalAlignment="Stretch" FontSize="22" Width="138" Click="Button_Click"/>
 
     </Grid>
 </Page>

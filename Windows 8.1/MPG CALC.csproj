@@ -14,7 +14,7 @@
     <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <PackageCertificateKeyFile>MPG CALC_StoreKey.pfx</PackageCertificateKeyFile>
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
-    <PackageCertificateThumbprint>11DCC49777B1364C5090F250899458A4AA67F2A7</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>882FAEFFA0AB89025E268698AB815F215AC1DD86</PackageCertificateThumbprint>
     <TargetPlatformVersion>8.1</TargetPlatformVersion>
     <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
     <AppxBundlePlatforms>neutral</AppxBundlePlatforms>

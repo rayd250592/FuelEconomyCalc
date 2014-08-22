@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
-  <Identity Name="32694rayd250592.MPGCalculator" Publisher="CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E" Version="2.1.0.5" />
+  <Identity Name="32694rayd250592.FuelEconomyCalculator" Publisher="CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E" Version="2.1.9.2" />
   <Properties>
-    <DisplayName>MPG Calculator</DisplayName>
+    <DisplayName>Fuel Economy Calculator</DisplayName>
     <PublisherDisplayName>rayd_250592</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -15,7 +15,7 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="MPG_CALC.App">
-      <m2:VisualElements DisplayName="MPG Calculator" Description="MPG CALC" BackgroundColor="#464646" ForegroundText="light" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png">
+      <m2:VisualElements DisplayName="Fuel Economy Calculator" Description="MPG CALC" BackgroundColor="#464646" ForegroundText="light" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png">
         <m2:DefaultTile>
           <m2:ShowNameOnTiles>
             <m2:ShowOn Tile="square150x150Logo" />
